@@ -1,0 +1,9 @@
+Buenos dias, este es mi prier mensaje escrito seriamente, con caracteres especiales
+como lo son:
+¤ …‡
+
+
+Triple enter 
+
+Exit
+exit\n

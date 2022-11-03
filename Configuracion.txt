@@ -1,0 +1,22 @@
+//xcarpeta desde donde se buscaran los archivos a mover
+1. Carpeta a organizar
+C:\Users\aleja\Documents\Random\C++ (Proyects)\Nuevo v2
+
+
+
+//Ejemplo: exe txt pdf cpp
+2. Extenciones a buscar (o usa * para buscar todos los archivos)
+*
+
+
+
+//Ejemplo: algebra calculo poo
+3. palabras clave (No importan las mayusculas o minusculas pero tener cuidado con los caracteres especiales)
+calculo algebra
+
+
+
+//El orden y cantidad de carpetas de destino debe ser la misma que las palabras clave
+4. carpetas destino
+C:\Users\aleja\Pictures\calculo
+C:\Users\aleja\Pictures\algebra
